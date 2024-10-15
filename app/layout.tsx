@@ -7,7 +7,7 @@ import Navigation from "@/components/Navigation";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "GrowthBoost - Performance Marketing Experts",
+  title: "RevUp - Performance Marketing Experts",
   description:
     "We boost your traffic and maximize your profits with data-driven marketing strategies.",
 };

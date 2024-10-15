@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import React from "react";
 
 const Hero = () => {
   return (
@@ -8,8 +9,8 @@ const Hero = () => {
           Boost Your Digital Performance
         </h1>
         <p className="mt-6 text-xl max-w-3xl">
-          We harness the power of data-driven strategies to elevate your brand's
-          online presence and drive measurable results.
+          We harness the power of data-driven strategies to elevate your
+          brand&apos;s online presence and drive measurable results.
         </p>
         <div className="mt-10">
           <Button size="lg" className="bg-white text-blue-600 hover:bg-blue-50">
